@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/98eb5359-13c2-4238-a694-2fee2ced9e37)
+
+
+Application web développer pour le serveur Keskekick RP (Dashboard de gestion/modération des joueurs, Système de connexion avec discord et attribution automatique des rôles en fonction du profil)
+
+<hr />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
